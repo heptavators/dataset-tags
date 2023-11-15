@@ -6,20 +6,20 @@ Berdasarkan tag berikut:
 tags = [ kumpulan tag yang ada di file list-of-tag ] 
 Bisakah anda membuat dataset untuk user dengan contoh seperti berikut:
 user_id,tags,user_preferences
-1,"Wibu|Gamers|Musik", "Gua pengen dapet teman yang bisa diajak pergi ke event cosplay bareng, nonton anime bareng, dan dapat bermain game bareng. Gua juga suka bermain Arknights"
+'7a7388dd-5d5f-40c8-88e3-d8dac77a5f6b',"Wibu|Gamers|Musik", "Gua pengen dapet teman yang bisa diajak pergi ke event cosplay bareng, nonton anime bareng, dan dapat bermain game bareng. Gua juga suka bermain Arknights"
 user_preferences adalah deskripsi teman yang diinginkan oleh user
 // Contohnya bikin beda-beda biar data yang kegenerate beda-beda
 
 Lalu dataset untuk talent dengan contoh seperti berikut:
 talent_id,tags,talent_description
-1,"Kpopers|Olahraga|Musik", "Saya sangat menyukai Kpop, girlband favorit saya TWICE, bias saya Dahyun, saya sangat menyukai setiap lagu TWICE. Saya juga suka berolahraga khususnya badminton"
+'e52cd4d5-04cf-47df-bc6c-166ed47ca27f',"Kpopers|Olahraga|Musik", "Saya sangat menyukai Kpop, girlband favorit saya TWICE, bias saya Dahyun, saya sangat menyukai setiap lagu TWICE. Saya juga suka berolahraga khususnya badminton"
 talent_description adalah deskripsi dari talent
 // Contohnya bikin beda-beda biar data yang kegenerate beda-beda
 
 # Dataset review ini ntar menurut lu perlu gak. Soalnya penting banget sih ini kalo buat sistem rekomendasi #
 Dan dataset untuk review dengan contoh seperti berikut:
 user_id,talent_id,rating,review
-1,1,4.5,'Recommend banget sih, orangnya interaktif, enak diajak ngobrol, asik banget, pokoknya ga nyesel deh'
+'7a7388dd-5d5f-40c8-88e3-d8dac77a5f6b','e52cd4d5-04cf-47df-bc6c-166ed47ca27f',4.5,'Recommend banget sih, orangnya interaktif, enak diajak ngobrol, asik banget, pokoknya ga nyesel deh'
 dataset review ini bergantung dengan dataset user dan talent, dimana user dengan id tertentu akan mereview talent dengan id tertentu, rating memiliki skala dari 1-5. user
 dapat mereview lebih dari satu talent dan talent yang sama berulang kali. Hubungan kedua dataset, perhatikan kemiripan tags dari user dan talent, namun anda juga boleh
 menghubungkan user dan talent dengan tag yang tidak terlalu mirip agar datanya bervariasi
