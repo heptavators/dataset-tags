@@ -1,23 +1,29 @@
-Kata-kata yang dikelilingin tanda # (pagar) itu masih dipertimbangkan, ntar kasih tahu aku lu maunya gimana han
-
-Saya ingin membuat sebuah sistem rekomendasi untuk aplikasi saya yang tujuannya adalah untuk merental teman, maka dari itu saya perlu data. Saya akan membuat #2/3 
-(tergantung kemudahan mengenerate data)# dataset yaitu #dataset user, dataset talent, dan dataset review#
+### users.csv
+Saya ingin membuat sebuah sistem rekomendasi untuk aplikasi saya yang tujuannya adalah untuk merental teman, maka dari itu saya perlu data. Saya akan membuat dataset user dalam bentuk csv
 Berdasarkan tag berikut:
-tags = [ kumpulan tag yang ada di file list-of-tag ] 
+tags = [/data/tags.csv]
 Bisakah anda membuat dataset untuk user dengan contoh seperti berikut:
 user_id,tags,user_preferences
-'7a7388dd-5d5f-40c8-88e3-d8dac77a5f6b',"Wibu|Gamers|Musik", "Gua pengen dapet teman yang bisa diajak pergi ke event cosplay bareng, nonton anime bareng, dan dapat bermain game bareng. Gua juga suka bermain Arknights"
-user_preferences adalah deskripsi teman yang diinginkan oleh user
-// Contohnya bikin beda-beda biar data yang kegenerate beda-beda
+'7a7388dd-5d5f-40c8-88e3-d8dac77a5f6b',"Wibu|Gamers|Mendengarkan musik|Humoris|Membaca", "Gua pengen dapet teman yang bisa diajak pergi ke event cosplay bareng, nonton anime bareng, dan dapat bermain game bareng. Gua juga suka bermain Arknights"
+user_id adalah uuid.v4, user_preferences adalah deskripsi teman yang diinginkan oleh user, satu user dapat memiliki tag maksimal 5 tag
+anda dapat memberikannya secara bertahap sehingga tidak memakan banyak ruang dan membuat tanggapan menjadi terlalu panjang
+// Contohnya bikin beda-beda biar data yang kegenerate beda-beda 
 
-Lalu dataset untuk talent dengan contoh seperti berikut:
+
+### talent.csv
+Saya ingin membuat sebuah sistem rekomendasi untuk aplikasi saya yang tujuannya adalah untuk merental teman, maka dari itu saya perlu data. Saya akan membuat  dataset talent dalam bentuk csv
+Berdasarkan tag berikut:
+tags = [/data/tags.csv]
+Bisakah anda membuat dataset untuk talent dengan contoh seperti berikut:
 talent_id,tags,talent_description
 'e52cd4d5-04cf-47df-bc6c-166ed47ca27f',"Kpopers|Olahraga|Musik", "Saya sangat menyukai Kpop, girlband favorit saya TWICE, bias saya Dahyun, saya sangat menyukai setiap lagu TWICE. Saya juga suka berolahraga khususnya badminton"
-talent_description adalah deskripsi dari talent
-// Contohnya bikin beda-beda biar data yang kegenerate beda-beda
+talent_id adalah uuid.v4, talent_description adalah deskripsi dari talent, satu talent dapat memiliki tag maksimal 5 tag
+anda dapat memberikannya secara bertahap sehingga tidak memakan banyak ruang dan membuat tanggapan menjadi terlalu panjang
+// Contohnya bikin beda-beda biar data yang kegenerate beda-beda 
 
-# Dataset review ini ntar menurut lu perlu gak. Soalnya penting banget sih ini kalo buat sistem rekomendasi #
-Dan dataset untuk review dengan contoh seperti berikut:
+### review.csv
+Saya ingin membuat sebuah sistem rekomendasi untuk aplikasi saya yang tujuannya adalah untuk merental teman, maka dari itu saya perlu data. Saya akan membuat dataset review dalam bentuk csv
+Bisakah anda membuat dataset review dengan contoh seperti berikut:
 user_id,talent_id,rating,review
 '7a7388dd-5d5f-40c8-88e3-d8dac77a5f6b','e52cd4d5-04cf-47df-bc6c-166ed47ca27f',4.5,'Recommend banget sih, orangnya interaktif, enak diajak ngobrol, asik banget, pokoknya ga nyesel deh'
 dataset review ini bergantung dengan dataset user dan talent, dimana user dengan id tertentu akan mereview talent dengan id tertentu, rating memiliki skala dari 1-5. user
