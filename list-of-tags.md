@@ -1,7 +1,6 @@
-3D-Modelling
+D-Modelling
 Anime
 Astrografi
-Baca-Buku
 Badminton
 Basket
 Bekerja
@@ -18,20 +17,19 @@ Bermain-Musik
 Bermain-Rubik
 Bernyanyi
 Bernyanyi-Lagu-Kpop
-Bernyayi
-Bersepada
+Berpikir
 Bersepeda
-Biliard
 Billiar
 Browsing
+Cat-Lovers
 Catur
-Coding
 Content-Creation
 Cosplay
 Curhat
 Desain
 Desain-Ui
 Diskusi
+Dog-Lovers
 Dubbing
 Editing
 Eksperimen
@@ -40,28 +38,24 @@ Filsafat
 Fotografi
 Futsal
 Game
-Gaming
 Genshin-Impact
 Gitar
 Gym
 Hang-Out
 Hiking
 Ice-Skating
-Idoling Group Lokal
+Idol
 Jalan Kaki
 Jogging
 Kerja
 Kuliner
 Lari
 Main
-Main Game
-Main-Game
 Manga
 Melukis
 Memancing
 Memasak
 Membaca
-Membaca Buku
 Membaca-Artikel
 Membaca-Buku
 Membaca-Komik
@@ -83,10 +77,9 @@ Menonton-Serial
 Menonton-Series
 Menonton-Vtuber
 Menonton-Youtube
-Menoton-Balapan
+Menonton-Balapan
 Menulis
 Menulis-Cerita
-Menyanyi
 Merenung
 Merokok
 Mobile-Legends
@@ -100,19 +93,13 @@ Puzzle
 Rebahan
 Self-Development
 Sepakbola
-Solid Baik Tidak Sombong Rajin Ibadah
 Sosmed
 Sulap
 Teknologi
 Tenis-Meja
-Thinking
-Tidak Ada
 Tidur
 Touring
 Trading
 Traveling
-Travelling
-Travelling.
 Voli
-Volly
 Workout
