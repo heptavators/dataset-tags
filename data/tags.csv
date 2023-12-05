@@ -1,172 +1,192 @@
-,tag,type
-0,Wibu,sifat
-1,Penuh semangat,sifat
-2,Content Creation,profesi
-3,Menyanyi,hobi
-4,Ramah,sifat
-5,Ahli biologi,profesi
-6,Diplomat,profesi
-7,Olahraga,hobi
-8,Berenang,hobi
-9,Aktor/Aktris,profesi
-10,Suka menolong,sifat
-11,Penari,profesi
-12,Ahli nutrisi,profesi
-13,Dokter bedah,profesi
-14,Belanja,hobi
-15,Fleksibel,sifat
-16,Desainer interior,profesi
-17,Kritis,sifat
-18,Geolog,profesi
-19,Analitis,sifat
-20,Golf,hobi
-21,Ilustrator,profesi
-22,Gamers,hobi
-23,Gym,hobi
-24,Riang,sifat
-25,Desain,profesi
-26,Cosplayer,profesi
-27,Pet lovers,hobi
-28,Ambisius,sifat
-29,Penyanyi,profesi
-30,Sutradara film,profesi
-31,Berkebun,hobi
-32,Perawat,profesi
-33,Menari,hobi
-34,Arkeolog,profesi
-35,Analis keamanan,profesi
-36,Menjahit,hobi
-37,Memancing,hobi
-38,Petualangan,hobi
-39,Membaca,hobi
-40,Seni rupa,hobi
-41,Penyiar radio,profesi
-42,Pelukis,profesi
-43,Arsitek,profesi
-44,Ngopi,hobi
-45,Penerjemah,profesi
-46,Teknologi,hobi
-47,Coding,hobi
-48,Berjiwa petualang,sifat
-49,Terorganisir,sifat
-50,Introspektif,sifat
-51,Tidur,hobi
-52,Trading,hobi
-53,Basket,hobi
-54,Menonton,hobi
-55,Jurnalis,profesi
-56,Browsing,hobi
-57,Independen,sifat
-58,Menggambar,hobi
-59,Touring,hobi
-60,Multimedia,profesi
-61,Desain Ui,profesi
-62,Humoris,sifat
-63,Penuh energi,sifat
-64,Penulis,profesi
-65,Belajar,hobi
-66,Kerja,hobi
-67,Guru privat,profesi
-68,Ice skating,hobi
-69,Jogging,hobi
-70,Ahli ekologi,profesi
-71,Lari,hobi
-72,Menulis,hobi
-73,Eksperimen,hobi
-74,Rebahan,hobi
-75,Percaya diri,sifat
-76,Inovatif,sifat
-77,Hang Out,hobi
-78,Memasak,hobi
-79,Bermain musik,hobi
-80,Sepak bola,hobi
-81,Nakhoda kapal,profesi
-82,Bekerja,sifat
-83,Pramugari,profesi
-84,Kuliner,hobi
-85,Kurator museum,profesi
-86,Astronom,profesi
-87,Mendaki,hobi
-88,Pembuat perhiasan,profesi
-89,Merenung,hobi
-90,Sabar,sifat
-91,Skena,sifat
-92,Astrografi,hobi
-93,Penata rambut,profesi
-94,Dubbing,profesi
-95,Ramah tamah,sifat
-96,Bernyanyi,hobi
-97,Melukis,hobi
-98,Kpopers,hobi
-99,Pemadam kebakaran,profesi
-100,Intelektual,sifat
-101,Merokok,hobi
-102,Berdiskusi,hobi
-103,Peneliti,profesi
-104,Berhitung,hobi
-105,Bersepeda,hobi
-106,Perfeksionis,sifat
-107,Editor,profesi
-108,Fotografer,profesi
-109,Mendengarkan musik,hobi
-110,Ahli hukum,profesi
-111,Diskusi,hobi
-112,Desainer Grafis,profesi
-113,Cerdas,sifat
-114,Romantis,sifat
-115,Pecinta alam,sifat
-116,Surfing,hobi
-117,Menyelam,hobi
-118,Psikolog,profesi
-119,Penuh daya juang,sifat
-120,Kutu Buku,sifat
-121,Kepala dapur,profesi
-122,Self Development,sifat
-123,Main kartu,hobi
-124,Anak Senja,sifat
-125,Programmer komputer,profesi
-126,Berkuda,hobi
-127,Kreatif,sifat
-128,Memanjat,hobi
-129,Animator,profesi
-130,Filsafat,profesi
-131,Pialang saham,profesi
-132,Yoga,hobi
-133,Rubik,hobi
-134,Seniman tato,profesi
-135,Optimis,sifat
-136,Catur,hobi
-137,Sosmed,hobi
-138,Badminton,hobi
-139,Tenis meja,hobi
-140,Penulis lagu,profesi
-141,Fotografi,hobi
-142,Grafity,hobi
-143,Visioner,sifat
-144,Cosplay,profesi
-145,Jalan jalan,hobi
-146,Billiard,hobi
-147,Disiplin,sifat
-148,Koki,profesi
-149,Ramah lingkungan,sifat
-150,Curhat,hobi
-151,Berpikir,hobi
-152,Puzzle,hobi
-153,Montir mobil,profesi
-154,Voli,hobi
-155,Keibuan,sifat
-156,Traveling,hobi
-157,3D Modelling,profesi
-158,Rendah hati,sifat
-159,Patriotik,sifat
-160,Sejarah,hobi
-161,Futsal,hobi
-162,Konsultan keuangan,profesi
-163,Sulap,hobi
-164,Hiking,hobi
-165,Ilmuwan data,profesi
-166,Prank,hobi
-167,Pemandu Wisata,profesi
-168,Poker,hobi
-169,Berjiwa sosial,sifat
-170,Dermawan,sifat
+tag,type
+Basket,hobi
+Memasak,hobi
+Desainer grafis,profesi
+Disiplin,sifat
+Mendengarkan musik,hobi
+Peneliti,profesi
+Penuh semangat,sifat
+Rebahan,hobi
+Ramah lingkungan,sifat
+Binaraga,profesi
+Atlet,profesi
+Sutradara,profesi
+Motivator,profesi
+Kecerdasan buatan,hobi
+Curhat,hobi
+Seniman,profesi
+Romantis,sifat
+Lari,hobi
+Koki,profesi
+Merokok,hobi
+Menyanyi,hobi
+Tidur,hobi
+Film,hobi
+Robotika,hobi
+Golf,hobi
+Model,profesi
+Perfeksionis,sifat
+Ilmuwan data,profesi
+Stylist,profesi
+Bisnis,hobi
+Analitis,sifat
+Psikolog,profesi
+Arsitek,profesi
+Pembuat perhiasan,profesi
+Inovatif,sifat
+Ambisius,sifat
+Berdiskusi,hobi
+Puzzle,hobi
+Pet lovers,hobi
+Berhitung,hobi
+Pemandu wisata,profesi
+Futsal,hobi
+Ilustrator,profesi
+Animator,profesi
+Diplomat,profesi
+Kritis,sifat
+Meditasi,hobi
+Humoris,sifat
+Patriotik,sifat
+Petualangan,hobi
+Cerdas,sifat
+Cosplayer,profesi
+Diskusi,hobi
+Desain,profesi
+Geolog,profesi
+Jogging,hobi
+Intelektual,sifat
+Penulis,profesi
+Fotografi,hobi
+Percaya diri,sifat
+Penuh daya juang,sifat
+Penari,profesi
+Seni,hobi
+Desainer interior,profesi
+Sejarah,hobi
+Optimis,sifat
+Touring,hobi
+Ice skating,hobi
+Pramugari,profesi
+Eksperimen,hobi
+Konsultan,profesi
+Penata rambut,profesi
+Suka menolong,sifat
+Belajar,hobi
+Gym,hobi
+Bermain musik,hobi
+Filsafat,profesi
+Komposer,profesi
+Ramah,sifat
+Kpopers,hobi
+Voli,hobi
+Kreatif,sifat
+Fleksibel,sifat
+Menulis,hobi
+Penuh energi,sifat
+Penulis lagu,profesi
+Dermawan,sifat
+Tenis meja,hobi
+Catur,hobi
+Independen,sifat
+Analis keamanan,profesi
+Sabar,sifat
+Dokter,profesi
+Hang Out,hobi
+Akting,hobi
+Fashion,hobi
+Poker,hobi
+Olahraga,hobi
+Nakhoda kapal,profesi
+Sosmed,hobi
+Pialang saham,profesi
+Billiard,hobi
+Pelukis,profesi
+Trading,hobi
+Wibu,sifat
+Programmer,profesi
+Bekerja,sifat
+Ahli nutrisi,profesi
+Kurator,profesi
+Sulap,hobi
+Kutu buku,sifat
+Fotografer,profesi
+Pengusaha,profesi
+Yoga,hobi
+Desain Ui,profesi
+Jurnalis,profesi
+Aktor/Aktris,profesi
+Menyelam,hobi
+Menonton,hobi
+Anak Senja,sifat
+Ahli ekologi,profesi
+Rendah hati,sifat
+Coding,hobi
+Teknologi,hobi
+Traveling,hobi
+Self development,sifat
+Kerja,hobi
+Content creator,profesi
+Game,hobi
+Hiking,hobi
+Belanja,hobi
+Astrografi,hobi
+Berpikir,hobi
+Berkebun,hobi
+Menggambar,hobi
+Sepak bola,hobi
+Visioner,sifat
+Melukis,hobi
+Pendaki,profesi
+Kuliner,hobi
+Berjiwa petualang,sifat
+Rubik,hobi
+Kesehatan,hobi
+3D Modelling,profesi
+Riang,sifat
+Multimedia,profesi
+Cosplay,profesi
+Musisi,profesi
+Keibuan,sifat
+Penerjemah,profesi
+Ahli biologi,profesi
+Main kartu,hobi
+Browsing,hobi
+Menari,hobi
+Jalan jalan,hobi
+Skena,sifat
+Berenang,hobi
+Merenung,hobi
+Videografi,hobi
+Dubbing,profesi
+Montir mobil,profesi
+Bernyanyi,hobi
+Menjahit,hobi
+Penyanyi,profesi
+Prank,hobi
+Berkuda,hobi
+Sastra,hobi
+Manajemen,profesi
+Bersepeda,hobi
+Editor,profesi
+Mendaki,hobi
+Membaca,hobi
+Budaya,hobi
+Surfing,hobi
+Penyiar radio,profesi
+Pemadam kebakaran,profesi
+Grafity,hobi
+Astronom,profesi
+Konservasi,hobi
+Pecinta alam,sifat
+Introspektif,sifat
+Memancing,hobi
+Pengajar,profesi
+Terorganisir,sifat
+Ahli hukum,profesi
+Badminton,hobi
+Berjiwa sosial,sifat
+Arkeolog,profesi
+Perawat,profesi
+Ngopi,hobi
+Memanjat,hobi
