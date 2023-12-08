@@ -1,1 +1,209 @@
 user_id,talent_id,rating,review
+51,200,4,'Talent ini sangat kreatif dan ramah. Sangat menyenangkan bekerja sama dengannya.'
+51,203,3,'Cukup baik, tapi ada beberapa hal yang bisa ditingkatkan. Tetap layak dicoba.'
+52,216,5,'Pengalaman luar biasa! Talent ini tidak hanya kreatif tetapi juga sangat inovatif.'
+53,214,4,'Rekomendasi untuk talent ini. Sangat ahli dalam bidangnya dan ramah.'
+54,205,3,'Secara umum baik, tetapi perlu sedikit peningkatan dalam beberapa aspek.'
+55,222,5,'Sangat puas dengan pelayanan talent ini. Kreatif dan profesional.'
+56,207,4,'Bekerja dengan talent ini membuat proyek menjadi lebih menyenangkan dan efisien.'
+57,210,5,'Sangat ahli dalam bidangnya. Pekerjaan dilakukan dengan sangat baik.'
+58,199,4,'Kreatif dan penuh semangat. Saya senang dapat bekerja dengan talent ini.'
+58,208,3,'Pelayanan cukup baik, namun ada beberapa aspek yang perlu ditingkatkan.'
+59,204,5,'Talent ini tidak hanya ahli dalam bidangnya tetapi juga sangat ramah dan mudah berkomunikasi.'
+60,206,4,'Kerjasama yang baik dengan talent ini. Sangat sabar dan kreatif.'
+61,213,3,'Pengalaman bekerja sama yang baik, tetapi perlu peningkatan di beberapa aspek.'
+62,211,5,'Sangat direkomendasikan. Talent ini sangat pintar dan kreatif.'
+64,201,3,'Cukup baik, tetapi perlu peningkatan dalam beberapa aspek teknis.'
+65,209,5,'Talent ini sangat mengesankan. Sangat ahli dalam bidangnya.'
+66,212,4,'Rekomendasi untuk talent ini. Sangat inovatif dan berpengetahuan luas.'
+68,220,5,'Pengalaman yang luar biasa! Talent ini tidak hanya profesional tetapi juga ramah.'
+69,221,4,'Kreatif dan ramah. Sangat menyenangkan bekerja sama dengannya.'
+69,223,3,'Cukup baik, tetapi perlu sedikit peningkatan dalam beberapa aspek.'
+113,2,4,'Pelayanannya baik, tapi masih ada sedikit kekurangan. Secara keseluruhan, lumayan puas.'
+113,5,3,'Kurang bersahabat, tapi punya skill yang bagus.'
+114,10,5,'Pramugari yang ramah dan profesional, sangat direkomendasikan!'
+115,15,4,'Pengalaman berkesan. Talent yang kreatif dan inovatif.'
+116,3,2,'Belum memenuhi ekspektasi, butuh peningkatan.'
+117,18,5,'Talent yang sangat menginspirasi, suasana hati selalu cerah.'
+118,25,4,'Ahli dalam bidangnya, terampil dan cepat tanggap.'
+119,10,2,'Tidak sesuai harapan, banyak kekurangan.'
+121,21,3,'Keterampilan teknologi kurang, tapi berpengetahuan luas.'
+122,1,4,'Suka dengan kreativitas dan kecerdasannya.'
+123,14,5,'Fashion sense yang luar biasa, pekerja keras.'
+124,23,2,'Kurang bersih dalam pekerjaannya.'
+125,12,5,'Penulis yang sangat berbakat, hasilnya selalu memukau.'
+126,5,4,'Bersikap ramah, suka dengan gaya menulisnya.'
+127,15,3,'Karya fotografi bagus, tapi kurang inovatif.'
+129,13,4,'Penyajian karakter dalam aktingnya bagus.'
+130,20,2,'Tidak sesuai dengan kebutuhan saya.'
+131,14,5,'Pengalaman travelingnya sangat berharga.'
+132,8,3,'Bekerja dengan serius, tapi kurang kreatif.'
+133,19,4,'Keamanan dijamin, pengerjaan detail.'
+134,3,5,'Seni grafitynya luar biasa, sangat merekomendasikan.'
+135,12,3,'Pekerjaan cukup baik, tapi kurang kreatif.'
+136,21,5,'Ahli dalam arsitektur, ide-ide segar dan kreatif.'
+137,14,4,'Sangat friendly dan mudah diajak berkomunikasi.'
+138,25,3,'Hasil kerjanya cukup memuaskan, tapi butuh sedikit perbaikan.'
+318,194,5,'Sangat direkomendasikan! Orangnya sangat interaktif dan enak diajak ngobrol. Sangat asik, pokoknya tidak mengecewakan.'
+303,175,4,'Cukup baik. Kemampuannya dalam konsultasi sangat membantu dan hasil lukisannya luar biasa.'
+312,188,3,'Tidak buruk. Pelayanannya cukup baik, meskipun terkadang terlalu serius. Namun, hasil karya multimedia-nya memang menakjubkan.'
+301,191,5,'Super keren! Sangat ahli dalam coding dan olahraga, kombinasi yang menarik. Suka banget sama hasil karyanya.'
+309,196,4,'Pertemuan yang menyenangkan. Kemampuan psikologinya membantu sekali, dan dia juga suka berolahraga.'
+320,183,2,'Agak kecewa. Kurang puas dengan hasil aktingnya, terkesan terlalu monoton. Namun, paham dan analitis.'
+305,174,5,'Rekomendasi tinggi! Kemampuan menari dan petualangannya luar biasa. Diskusinya selalu seru dan informatif.'
+318,188,4,'Layanan multimedia-nya sangat bagus, rendah hati, dan terorganisir. Sangat suka dengan karyanya.'
+310,192,3,'Secara umum ok. Kemampuan bersepeda dan berkebunnya lumayan, tapi kurang terkesan inovatif dalam desain UI.'
+314,197,5,'Sangat memuaskan. Suara menyanyinya luar biasa, dan kemampuan badmintonya juga patut diacungi jempol.'
+306,179,4,'Pelayanan konsultasinya sangat membantu. Suasana diskusi cukup santai dan dia sangat cakap dalam sulap.'
+319,182,3,'Kok lumayan ya. Kemampuan memancingnya oke, tapi kurang greget dalam bermain badminton.'
+298,185,5,'Sangat menyenangkan berbicara dengan anak senja ini. Motivator dan bernyanyi dengan penuh semangat.'
+303,183,2,'Kurang puas dengan penampilannya. Bersepeda dan berkebunnya biasa saja, dan desain UI-nya kurang menarik.'
+307,196,5,'Luangkan waktu dengan programmer ini sangat berharga. Kombinasi olahraga dan codingnya sangat unik dan menarik.'
+312,198,4,'Pelayanannya baik. Tur dengan pemandu wisata ini cukup informatif, dan suasana bermain poker seru.'
+306,193,3,'Cukup baik. Meskipun suasana meditasinya menyenangkan, tetapi kurang inovatif dalam kuliner.'
+302,177,5,'Luar biasa! Konsultan ini sangat ahli dalam fotografi dan melukis. Paham akan budaya dan sangat percaya diri.'
+309,174,4,'Rekomendasi! Menari dan petualangannya keren, serta diskusinya sangat menginspirasi.'
+313,195,3,'Biasa saja. Kemampuan olahraga dan fotografinya standar, meskipun cukup baik dalam bersepeda.'
+311,191,5,'Top banget! Kombinasi traveling dan introspektifnya membuatnya sangat menarik. Keren!'
+314,175,4,'Cukup memuaskan. Konsultasinya membantu, dan hasil lukisannya menunjukkan keahlian yang baik.'
+315,188,5,'Super kreatif! Diskusi dan videografinya luar biasa. Selalu menyajikan ide-ide segar dan cerdas.'
+316,183,2,'Agak kecewa. Dokter ini terlalu serius dan kurang memiliki kecerdasan artistik dalam desain UI.'
+310,197,4,'Layak dicoba. Kemampuan bermain badminton dan suara menyanyinya patut diapresiasi.'
+317,185,3,'Biasa saja. Animasinya standar, dan suasana ngopi kurang menarik.'
+319,192,5,'Brilian! Kemampuan badminton dan menyelamnya luar biasa. Desain UI-nya pun sangat mengesankan.'
+320,196,4,'Cukup baik. Seni akting dan bersepedanya bagus, tapi kurang terlihat dalam coding.'
+321,194,5,'Sangat merekomendasikan! Kesan humoris dan kemampuan teknologinya sangat keren.'
+322,181,3,'Standar. Berkebun dan ahli hukumnya biasa saja, dan penulis lagunya kurang mencuri perhatian.'
+323,198,4,'Pelayanan pemandu wisatanya sangat baik. Kritis dan peduli terhadap konservasi. Bermain poker bersamanya seru.'
+318,194,5,'Kembali merekomendasikan! Masih sangat puas dengan interaksi yang menyenangkan dan kreativitasnya.'
+269,396,5,'Saya sangat merekomendasikan talent ini. Sangat interaktif dan enak diajak ngobrol. Asik banget, pokoknya ga nyesel deh!'
+251,378,4,'Talent yang bagus. Cerdas dan punya pemikiran kritis. Sedikit ruang untuk peningkatan, tapi overall sangat baik.'
+257,391,3,'Kurang sesuai dengan preferensi saya. Mungkin lebih cocok untuk orang lain. Tetap berusaha ya!'
+263,385,5,'Keren banget talentnya! Independen dan sangat perfeksionis. Suka dengan hasilnya.'
+266,387,4,'Seniman multitalenta. Kreatif dan memiliki keahlian dalam berbagai bidang. Saya suka dengan kontribusinya.'
+270,392,5,'Berpengalaman dan sangat inovatif dalam bidangnya. Rekomendasi tinggi!'
+258,375,3,'Tidak sepenuhnya sesuai ekspektasi saya. Tetapi masih layak dicoba untuk orang yang mencari sesuatu yang berbeda.'
+269,394,4,'Talent yang ambisius dan kritis. Penuh dedikasi terhadap pekerjaannya. Sangat direkomendasikan.'
+251,380,4,'Sangat ramah dan mudah berkomunikasi. Memberikan suasana yang nyaman. Sedikit ruang untuk perbaikan, tapi tetap baik.'
+263,377,3,'Mungkin kurang cocok dengan minat saya. Tetapi talentnya sangat berpengetahuan dan analitis.'
+255,379,5,'Sangat terkesan dengan talent ini. Kreatif, terorganisir, dan memiliki visi yang kuat. Layak mendapatkan rating tinggi.'
+266,398,4,'Senang berkolaborasi dengan talent ini. Kreatif dan memiliki keahlian dalam berbagai bidang multimedia.'
+272,393,3,'Saya rasa masih ada ruang untuk peningkatan dalam keterampilan talent ini. Tetapi kerja kerasnya patut diapresiasi.'
+261,381,5,'Talent yang sangat inovatif dalam bidang teknologi dan desain. Kolaborasi yang menyenangkan!'
+254,379,4,'Pengalaman yang menyenangkan bekerja dengan talent ini. Ramah dan terbuka terhadap ide-ide baru.'
+265,384,3,'Tidak sepenuhnya sesuai dengan ekspektasi saya. Mungkin talent ini lebih cocok dengan proyek yang berbeda.'
+258,394,5,'Sangat puas dengan hasil kerja talent ini. Ambisius dan selalu memberikan yang terbaik.'
+269,396,4,'Kemampuan talent ini sangat mengesankan. Komunikatif dan memiliki pemahaman yang baik terhadap konsep-konsep kompleks.'
+263,378,5,'Sangat suka dengan pendekatan talent ini terhadap karya seni. Cerdas dan memiliki pandangan yang unik.'
+270,392,4,'Inovatif dan terampil dalam bidangnya. Kekuatan utamanya ada pada kemampuannya berpikir kreatif.'
+148,298,4,"Talent ini sangat ahli dalam fotografi, sangat puas dengan hasilnya."
+148,299,3,"Makanan yang disajikan oleh koki ini enak, namun pelayanan kurang memuaskan."
+149,300,5,"Penulis ini memiliki kreativitas yang luar biasa, sangat merekomendasikan."
+149,301,4,"Programmer ini sangat inovatif dan membantu dalam pengembangan proyek kami."
+150,302,5,"Penerjemah ini sangat ahli dalam berbagai bahasa, pelayanan pramugarinya juga luar biasa."
+150,303,4,"Pengusaha ini memberikan solusi bisnis yang inovatif dan bermanfaat."
+151,304,4,"Desain fashion talent ini sangat kreatif dan detail, sangat merekomendasikan."
+151,305,5,"Animator ini memiliki keterampilan tinggi, hasil karyanya sangat memuaskan."
+152,306,3,"Psikolog ini ramah namun agak kurang efektif dalam sesi konsultasi."
+152,307,4,"Programmer ini membantu dalam memecahkan masalah teknis dan memberikan solusi."
+153,308,5,"Talent ini memiliki kreativitas tinggi dalam dunia sosmed, sangat cocok untuk promosi."
+153,309,3,"Ambisi talent ini luar biasa, namun kurang berpengalaman dalam olahraga."
+154,310,4,"Ilustrator ini sangat kreatif dalam menciptakan karya seni, hasilnya luar biasa."
+154,311,5,"Terorganisir dan ramah, talent ini menjadi pilihan yang baik untuk perjalanan."
+155,312,3,"Cosplayer ini memiliki keterampilan yang baik, namun kurang berpengalaman dalam konservasi."
+155,313,4,"Pengajar ini memberikan pelajaran yoga dengan penuh semangat, sangat menyenangkan."
+156,314,5,"Penari ini sangat kreatif dan berbakat, pertunjukannya memukau."
+156,315,4,"Editor ini memiliki kecerdasan yang tinggi, sangat baik dalam mengolah video."
+157,316,3,"Dokter ini ramah dan berpengetahuan luas, namun kurang berbakat dalam akting."
+157,317,4,"Animator ini suka ngopi dan poker, cocok untuk aktivitas santai bersama."
+158,318,5,"Psikolog ini sangat ramah dan bisa diajak curhat, memberikan dukungan yang baik."
+158,319,4,"Peneliti ini memiliki pemikiran intelektual tinggi, sangat baik dalam penelitian."
+159,320,5,"Seniman ini memiliki bakat yang luar biasa, sangat direkomendasikan."
+159,321,4,"Programmer ini inovatif dan humoris, membuat proyek menjadi lebih menyenangkan."
+160,322,3,"Penulis dan musisi ini kreatif dalam menciptakan karya, namun kurang terorganisir."
+160,323,4,"Pengajar ini ahli dalam teknologi dan coding, sangat membantu dalam pembelajaran."
+398,173,4,"Pengalaman menyenangkan dengan desainer interior ini, sangat kreatif!"
+398,179,3,"Makanan yang disajikan kurang memuaskan, tetapi pelayanan baik."
+399,185,5,"Akting talent ini sangat mengesankan, saya sangat terkesan."
+399,401,4,"Bergabung dalam kegiatan olahraga bersama pengguna ini sangat seru."
+400,412,3,"Sesi diskusi dengan ahli ekologi ini agak kurang interaktif."
+400,421,5,"Programmer ini sangat ahli dalam coding, sangat membantu proyek kami."
+401,182,4,"Talent ini memiliki keterampilan teknologi yang luar biasa, inovatif!"
+401,406,3,"Bekerja bersama talent ini cukup baik, namun perlu lebih fokus."
+402,193,5,"Pengalaman menonton bersama talent ini sangat menghibur, saya merekomendasikan!"
+402,415,4,"Ilmuwan data ini memberikan wawasan yang berharga dalam pengembangan proyek."
+403,410,3,"Berkunjung bersama talent ini membuat saya lebih memahami budaya lokal."
+403,417,5,"Anak senja ini sangat ramah dan menghibur, waktu bersama menjadi berkesan."
+404,198,4,"Sesi diskusi dengan talent ini sangat informatif dan menyenangkan."
+404,403,3,"Bekerja sama dengan talent ini memerlukan lebih banyak koordinasi."
+405,411,5,"Penulis filsafat ini sangat pandai berbicara dan memahami konsep-konsep berat."
+405,407,4,"Talent ini memberikan suasana yang ceria dan santai, sangat nyaman."
+406,423,3,"Pecinta alam ini memiliki pandangan yang unik, namun kurang bersemangat."
+406,414,5,"Koki ini membuat hidangan yang sangat lezat, sangat direkomendasikan!"
+407,321,4,"Programmer yang ahli dalam coding dan teknologi, sangat membantu."
+407,405,3,"Sesi berenang bersama talent ini kurang seru, perlu variasi kegiatan."
+408,410,5,"Programmer ini sangat ahli dalam coding, membantu proyek kami sukses."
+408,412,4,"Bekerja sama dengan ahli ekologi ini memberikan pandangan yang berbeda."
+409,415,3,"Sesi yoga bersama talent ini cukup baik, namun kurang intensif."
+409,411,5,"Seniman ini memberikan pengalaman mendalam dalam kreativitas seni."
+410,194,4,"Pengajar yoga yang sabar dan penuh semangat, sangat baik dalam memberikan instruksi."
+410,402,3,"Bekerja sama dalam proyek kesehatan, perlu lebih banyak koordinasi."
+411,406,5,"Bersenang-senang bersama pengguna ini, sangat humoris dan hangat."
+411,407,4,"Berenang bersama talent ini memberikan suasana yang menyenangkan dan santai."
+298,3,4,"Talent ini sangat kreatif dan inovatif dalam desain grafis."
+299,10,3,"Bergabung dalam kegiatan olahraga bersama talent ini cukup seru."
+300,5,5,"Komposer ini memiliki kepekaan seni yang luar biasa, karyanya sangat menginspirasi."
+301,11,4,"Percaya diri dan inovatif, talent ini membantu dalam proyek pengembangan teknologi."
+302,13,3,"Sesi bermain puzzle bersama talent ini menyenangkan dan menantang."
+303,9,5,"Talent fotografer ini memiliki kemampuan yang luar biasa dalam menangkap momen indah."
+304,15,4,"Bertemu dengan talent fashion ini membawa pengalaman berharga dalam dunia mode."
+305,8,3,"Sesi bermain rubik bersama talent ini memacu otak dan menyenangkan."
+306,16,5,"Bergabung dalam proyek kreatif bersama talent ini sangat memuaskan."
+307,21,4,"Talent ini memiliki keahlian dalam bidang teknologi dan pengajaran."
+308,18,3,"Bersenang-senang bersama talent ini, sesi diskusi menjadi lebih hidup."
+309,14,5,"Bekerja sama dengan talent konsultan sangat membantu dalam mengatasi masalah."
+310,24,4,"Sesi memasak bersama talent koki sangat menyenangkan dan lezat."
+311,19,3,"Talent ini memiliki wawasan yang mendalam dalam dunia seni dan desain."
+312,25,5,"Programmer ini sangat ahli dalam coding, membantu proyek kami sukses."
+313,26,4,"Talent ini suka menolong dan memiliki keahlian dalam analisis data."
+314,7,3,"Sesi foto bersama talent fotografer ini menghasilkan karya yang indah."
+315,12,5,"Bekerja sama dengan talent animator sangat kreatif dan produktif."
+316,1,4,"Sesi hiking bersama talent ini penuh petualangan dan keseruan."
+317,23,3,"Talent ini memiliki keahlian dalam bisnis dan seni, sesi diskusi sangat bermanfaat."
+318,17,5,"Bersenang-senang bersama talent ini dalam kegiatan olahraga."
+319,2,4,"Sesi berdiskusi bersama talent ini sangat membuka wawasan dan pikiran."
+320,22,3,"Talent ini memiliki keahlian dalam desain dan seni, sesi menggambar sangat seru."
+321,4,5,"Bergabung dalam kegiatan olahraga bersama talent ini sangat menyegarkan."
+322,20,4,"Sesi bersepeda bersama talent ini memberikan pengalaman petualangan yang menyenangkan."
+323,6,3,"Bersama talent ini, kami mengeksplorasi dunia kuliner dengan berbagai cita rasa."
+191,99,4,"Talent kurator ini memiliki wawasan yang dalam, pamerannya sangat menginspirasi."
+173,107,3,"Sesi yoga bersama talent ini agak kurang intensif, perlu lebih banyak variasi gerakan."
+180,103,4,"Pengajar seni ini memberikan panduan yang baik, membantu meningkatkan keterampilan seni saya."
+184,104,3,"Talent sulap ini sangat memukau, namun butuh lebih banyak variasi trik."
+185,99,3,"Sesi membaca bersama talent ini agak monoton, perlu lebih banyak variasi buku."
+195,109,4,"Lari bersama talent ini sangat menyehatkan, membuat saya tetap bugar."
+190,122,5,"Budaya bersama talent ini sangat menarik, pengalaman yang menggugah hati."
+118,115,3,"Sesi diskusi bersama talent ini agak monoton, perlu lebih banyak pertanyaan menarik."
+197,111,4,"Animator ini sangat kreatif, animasinya luar biasa indah."
+189,104,4,"Sesi sulap bersama talent ini sangat menghibur, trik-triknya menakjubkan."
+191,99,4,"Talent kurator ini memiliki wawasan yang dalam, pamerannya sangat menginspirasi."
+173,107,3,"Sesi yoga bersama talent ini agak kurang intensif, perlu lebih banyak variasi gerakan."
+180,103,4,"Pengajar seni ini memberikan panduan yang baik, membantu meningkatkan keterampilan seni saya."
+184,104,3,"Talent sulap ini sangat memukau, namun butuh lebih banyak variasi trik."
+185,99,3,"Sesi membaca bersama talent ini agak monoton, perlu lebih banyak variasi buku."
+195,109,4,"Lari bersama talent ini sangat menyehatkan, membuat saya tetap bugar."
+190,122,5,"Budaya bersama talent ini sangat menarik, pengalaman yang menggugah hati."
+118,115,3,"Sesi diskusi bersama talent ini agak monoton, perlu lebih banyak pertanyaan menarik."
+197,111,4,"Animator ini sangat kreatif, animasinya luar biasa indah."
+189,104,4,"Sesi sulap bersama talent ini sangat menghibur, trik-triknya menakjubkan."
+user_id,talent_id,rating,review
+191,99,4,"Talent kurator ini memiliki wawasan yang dalam, pamerannya sangat menginspirasi."
+173,107,3,"Sesi yoga bersama talent ini agak kurang intensif, perlu lebih banyak variasi gerakan."
+180,103,4,"Pengajar seni ini memberikan panduan yang baik, membantu meningkatkan keterampilan seni saya."
+184,104,3,"Talent sulap ini sangat memukau, namun butuh lebih banyak variasi trik."
+185,99,3,"Sesi membaca bersama talent ini agak monoton, perlu lebih banyak variasi buku."
+195,109,4,"Lari bersama talent ini sangat menyehatkan, membuat saya tetap bugar."
+190,122,5,"Budaya bersama talent ini sangat menarik, pengalaman yang menggugah hati."
+118,115,3,"Sesi diskusi bersama talent ini agak monoton, perlu lebih banyak pertanyaan menarik."
+197,111,4,"Animator ini sangat kreatif, animasinya luar biasa indah."
+189,104,4,"Sesi sulap bersama talent ini sangat menghibur, trik-triknya menakjubkan."
